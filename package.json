@@ -1,8 +1,8 @@
 {
-  "name": "fi-css-test",
+  "name": "scss-storybook-starter",
   "version": "1.0.0",
-  "description": "The CSS portion of the sanity check test",
-  "author": "Liv Madsen <liv.madsen@gmail.com>",
+  "description": "A minimal starter for a react storybook, just to spit out some fast components",
+  "author": "Liv Madsen",
   "license": "MIT",
   "scripts": {
     "storybook": "start-storybook -p 9001 -c .storybook"
