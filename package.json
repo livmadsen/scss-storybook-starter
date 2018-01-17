@@ -1,0 +1,19 @@
+{
+  "name": "fi-css-test",
+  "version": "1.0.0",
+  "description": "The CSS portion of the sanity check test",
+  "main": "index.js",
+  "author": "Liv Madsen <liv.madsen@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "storybook": "start-storybook -p 9001 -c .storybook"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "@storybook/react": "^3.3.9",
+    "babel-core": "^6.26.0"
+  }
+}
