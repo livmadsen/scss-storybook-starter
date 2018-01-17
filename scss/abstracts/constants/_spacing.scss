@@ -1,0 +1,9 @@
+/// Example values for spacing
+/// @group Layout
+$spacing-map: (
+  'mouse': 5px,
+  'cat': 10px,
+  'dog': 20px,
+  'pig': 40px,
+  'cow': 60px
+) !default;

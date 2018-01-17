@@ -1,0 +1,16 @@
+/// Example values for colors
+/// @group Colors
+$colors-map: (
+  'base': (
+    'main': #fff,
+    'text-default': #000
+  ),
+  'primary': (
+    'main': salmon,
+    'text-default': #fff
+  ),
+  'secondary': (
+    'main': cadetblue,
+    'text-default': #fff000
+  )
+) !default;

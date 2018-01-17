@@ -1,0 +1,5 @@
+/// Function to quickly get the spacing value from a spacing map (see in variables)
+/// @group layout
+@function get-spacing($value) {
+  @return map-get($spacing-map, $value);
+}

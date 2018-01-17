@@ -1,3 +1,4 @@
 .sample {
-  background-color: salmon;
+  background-color: get-color(secondary);
+  color: get-color(secondary, text-default);
 }

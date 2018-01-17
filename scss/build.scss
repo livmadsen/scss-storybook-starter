@@ -1,3 +1,12 @@
+// Absracts (constants, functions and mixins)
+@import 'abstracts/**/*.scss';
+
+// Vendor (Vendor specific styles: e.g. Include media)
+@import 'vendor/**/*.scss';
+
+// Setup (reset, base etc..)
+@import 'setup/*.scss';
+
 // Components
 @import '../components/**/*.scss';
 
